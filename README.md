@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mete Atamel</h1>
-<h3 align="center">I’m a Software Engineer and a Developer Advocate with 18+ years of experience. Currently, I work in the Developer Relations team at Google in London. I build tools, demos, tutorials, and give talks to educate and help developers to be successful on Google Cloud. As a regular speaker at tech conferences, I have spoken over 345+ events since 2016 on modern application development topics such as Kubernetes, Istio, Knative, serverless, event-driven architectures, and microservice orchestration. Prior to my current role, I was a Software Engineer/Architect/Tech Lead at Nokia, EMC, Adobe, Skype, and Microsoft building various client and server technologies, resulting in multiple patents.</h3>
+<h3 align="center">I’m a Software Engineer and a Developer Advocate with 18+ years of experience. Currently, I work in the Developer Relations team at Google in London. I build tools, demos, tutorials, and give talks to educate and help developers to be successful on Google Cloud. As a regular speaker at tech conferences, I have spoken over 370+ events since 2016 on modern application development topics such as Kubernetes, Istio, Knative, serverless, event-driven architectures, microservice orchestration, and most recently Generative AI. Prior to my current role, I was a Software Engineer/Architect/Tech Lead at Nokia, EMC, Adobe, Skype, and Microsoft building various client and server technologies, resulting in multiple patents.</h3>
 
 - 📝 I regularly write articles on [https://atamel.dev/](https://atamel.dev/)
 
-- 📫 How to reach me **atamel@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/meteatamel](https://www.linkedin.com/in/meteatamel)
+- 📄 Connect with me on [https://www.linkedin.com/in/meteatamel](https://www.linkedin.com/in/meteatamel)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
