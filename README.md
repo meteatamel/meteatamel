@@ -7,7 +7,7 @@
 
 ## Apps
 
-These are my recent vibe coded apps. They're PWA apps implemented with Flutter and deployed to Cloud Run:
+Recently coded apps:
 
 | App | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
