@@ -7,7 +7,7 @@
 
 ## Apps
 
-Flutter Web PWAs deployed on Google Cloud Run:
+These are my recent vibe coded apps. They're PWA apps implemented with Flutter and deployed to Cloud Run:
 
 | App | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
