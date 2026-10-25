@@ -3,17 +3,9 @@
 
 - 📝 I regularly write articles on [https://atamel.dev/](https://atamel.dev/)
 
+- 🚀 Check out my recently coded apps on [https://atamel.dev/apps/](https://atamel.dev/apps/)
+
 - 📄 Connect with me on [https://www.linkedin.com/in/meteatamel](https://www.linkedin.com/in/meteatamel)
-
-## Apps
-
-Recently coded apps:
-
-| App | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **AI Trivia Quest** | An AI-powered trivia game where you choose any topic, difficulty, timer speed, and language to get custom questions and a unique generated topic image with dynamic theming and time-based scoring. | Flutter Web PWA, Dart (`shelf`), Vertex AI (`gemini-2.5-flash` & `gemini-2.5-flash-image`), Cloud Run | [GitHub](https://github.com/meteatamel/ai-trivia-app) · [Live App](https://ai-trivia-quest-latj55fk6q-ew.a.run.app) |
-| **On-Time Traveler** | Helps travelers calculate and manage their pre-departure schedule backwards from flight, train, or bus departure time, with customizable steps, buffer protection, and Google Calendar export. | Flutter Web PWA, Docker, Cloud Run | [GitHub](https://github.com/meteatamel/on-time-traveler) · [Live App](https://on-time-traveler-latj55fk6q-ew.a.run.app) |
-| **Amathus** | Aggregates 34 Cyprus RSS news feeds in Turkish, Greek, and English into a unified format with AI-generated daily multi-language news overviews, podcasts, and live translation. | Flutter Web PWA, C# / ASP.NET Core (.NET 10), Firestore, Pub/Sub, Cloud Storage, Cloud Run | [GitHub](https://github.com/meteatamel/amathus) · [Live App](https://amathus-client-e2bbcr4ryq-ew.a.run.app) |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
